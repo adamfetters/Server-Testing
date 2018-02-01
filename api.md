@@ -50,7 +50,11 @@ This api's permits acess to a database of Users and perform the following functi
 
 | Endpoint | Type | Data | Result |
 |:---------|:--:|:--:|:-:| 
+<<<<<<< HEAD
 |/delete/:id|delete|Json|Returns {msg: user has been deleted!}|
+=======
+|/delete/:id|delete|Json|Returns {msg: 'user has been deleted!'}|
+>>>>>>> 13de371e588aa32c0f0eb35af526ffeee4fa6c20
 #### Delete Object Example:
 ```JSON
 {
